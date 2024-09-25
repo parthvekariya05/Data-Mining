@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="File" position="(150, 150)" />
+		<node id="1" name="Frequent Itemsets" qualified_name="orangecontrib.associate.widgets.owitemsets.OWItemsets" project_name="Orange3-Associate" version="" title="Frequent Itemsets" position="(328.0, 148.0)" />
+		<node id="2" name="Association Rules" qualified_name="orangecontrib.associate.widgets.owassociate.OWAssociate" project_name="Orange3-Associate" version="" title="Association Rules" position="(340.0, 266.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="0" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="pickle">gASVEgcAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZQojB5v
+cmFuZ2V3aWRnZXQudXRpbHMuZmlsZWRpYWxvZ3OUjApSZWNlbnRQYXRolJOUKYGUfZQojAdhYnNw
+YXRolIwoQzovVXNlcnMvYWRtaW4vRGVza3RvcC9ETS9MYWI2L0RhdGEueGxzeJSMBnByZWZpeJSM
+B2Jhc2VkaXKUjAdyZWxwYXRolIwJRGF0YS54bHN4lIwFdGl0bGWUjACUjAVzaGVldJRoEIwLZmls
+ZV9mb3JtYXSUTnViaAYpgZR9lChoCYxDQzovVXNlcnMvYWRtaW4vYW5hY29uZGEzL0xpYi9zaXRl
+LXBhY2thZ2VzL09yYW5nZS9kYXRhc2V0cy9pcmlzLnRhYpRoC4wPc2FtcGxlLWRhdGFzZXRzlGgN
+jAhpcmlzLnRhYpRoD2gQaBFoEGgSTnViaAYpgZR9lChoCYxGQzovVXNlcnMvYWRtaW4vYW5hY29u
+ZGEzL0xpYi9zaXRlLXBhY2thZ2VzL09yYW5nZS9kYXRhc2V0cy90aXRhbmljLnRhYpRoC2gWaA2M
+C3RpdGFuaWMudGFilGgPaBBoEWgQaBJOdWJoBimBlH2UKGgJjEZDOi9Vc2Vycy9hZG1pbi9hbmFj
+b25kYTMvTGliL3NpdGUtcGFja2FnZXMvT3JhbmdlL2RhdGFzZXRzL2hvdXNpbmcudGFilGgLaBZo
+DYwLaG91c2luZy50YWKUaA9oEGgRaBBoEk51YmgGKYGUfZQoaAmMTEM6L1VzZXJzL2FkbWluL2Fu
+YWNvbmRhMy9MaWIvc2l0ZS1wYWNrYWdlcy9PcmFuZ2UvZGF0YXNldHMvaGVhcnRfZGlzZWFzZS50
+YWKUaAtoFmgNjBFoZWFydF9kaXNlYXNlLnRhYpRoD2gQaBFoEGgSTnViaAYpgZR9lChoCYxNQzov
+VXNlcnMvYWRtaW4vYW5hY29uZGEzL0xpYi9zaXRlLXBhY2thZ2VzL09yYW5nZS9kYXRhc2V0cy9i
+cm93bi1zZWxlY3RlZC50YWKUaAtoFmgNjBJicm93bi1zZWxlY3RlZC50YWKUaA9oEGgRaBBoEk51
+YmgGKYGUfZQoaAmMQkM6L1VzZXJzL2FkbWluL2FuYWNvbmRhMy9MaWIvc2l0ZS1wYWNrYWdlcy9P
+cmFuZ2UvZGF0YXNldHMvem9vLnRhYpRoC2gWaA2MB3pvby50YWKUaA9oEGgRaBBoEk51YmWMC3Jl
+Y2VudF91cmxzlF2UjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAF+AAAAOQAAA9cA
+AAKBAAABfwAAAFgAAAPWAAACgAAAAAAAAAAABVYAAAF/AAAAWAAAA9YAAAKAlIwLc2hlZXRfbmFt
+ZXOUfZSMBnNvdXJjZZRLAIwDdXJslGgQjA1kb21haW5fZWRpdG9ylH2UjAtfX3ZlcnNpb25fX5RL
+AYwQY29udGV4dF9zZXR0aW5nc5RdlCiMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSU
+k5QpgZR9lCiMBnZhbHVlc5R9lCiMCXZhcmlhYmxlc5RdlGg0fZRoQF2UKF2UKIwDVElElIwUT3Jh
+bmdlLmRhdGEudmFyaWFibGWUjBJDb250aW51b3VzVmFyaWFibGWUk5RLA2gQiGVdlCiMATGUaEaM
+EERpc2NyZXRlVmFyaWFibGWUk5RLAIwBVJSJZV2UKIwBMpRoTEsAaE2JZV2UKIwBM5RoTEsAaE2J
+ZV2UKIwBNJRoTEsAaE2JZV2UKIwBNZRoTEsAaE2JZWVzaDZLAXWMCmF0dHJpYnV0ZXOUKGhFSwKG
+lGhKXZRoTWGGlGhPXZRoTWGGlGhRXZRoTWGGlGhTXZRoTWGGlGhVXZRoTWGGlHSUjAVtZXRhc5Qp
+jApjbGFzc192YXJzlCmMEm1vZGlmaWVkX3ZhcmlhYmxlc5RdlHViaDspgZR9lChoPn2UKGhAXZRo
+NH2UaEBdlChdlCiMDHNlcGFsIGxlbmd0aJRoSEsAaBCIZV2UKIwLc2VwYWwgd2lkdGiUaEhLAGgQ
+iGVdlCiMDHBldGFsIGxlbmd0aJRoSEsAaBCIZV2UKIwLcGV0YWwgd2lkdGiUaEhLAGgQiGVdlCiM
+BGlyaXOUaExLAYwsSXJpcy1zZXRvc2EsIElyaXMtdmVyc2ljb2xvciwgSXJpcy12aXJnaW5pY2GU
+iWVlc2g2SwF1aFYoaG5LAoaUaHBLAoaUaHJLAoaUaHRLAoaUdJRoYyloZGh2XZQojAtJcmlzLXNl
+dG9zYZSMD0lyaXMtdmVyc2ljb2xvcpSMDklyaXMtdmlyZ2luaWNhlGWGlIWUaGVdlHViZXUu
+</properties>
+		<properties node_id="1" format="literal">{'autoFind': False, 'autoSend': True, 'controlAreaVisible': True, 'filterKeywords': '', 'filterMaxItems': 10000, 'filterMinItems': 1, 'filterSearch': True, 'maxItemsets': 10000, 'minSupport': 20, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\x06\x00\x00\x00S\x00\x00\x04P\x00\x00\x02f\x00\x00\x01\x07\x00\x00\x00r\x00\x00\x04O\x00\x00\x02e\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x01\x07\x00\x00\x00r\x00\x00\x04O\x00\x00\x02e', '__version__': 1}</properties>
+		<properties node_id="2" format="literal">{'autoFind': False, 'autoSend': True, 'classify': False, 'controlAreaVisible': True, 'filterAntecedentMax': 1000, 'filterAntecedentMin': 1, 'filterConsequentMax': 1000, 'filterConsequentMin': 1, 'filterKeywordsAntecedent': '', 'filterKeywordsConsequent': '', 'filterSearch': True, 'maxRules': 10000, 'minConfidence': 50, 'minSupport': 20, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01%\x00\x00\x00S\x00\x00\x040\x00\x00\x02f\x00\x00\x01&amp;\x00\x00\x00r\x00\x00\x04/\x00\x00\x02e\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x01&amp;\x00\x00\x00r\x00\x00\x04/\x00\x00\x02e', '__version__': 1}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
